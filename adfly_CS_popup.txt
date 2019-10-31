@@ -1,0 +1,9 @@
+<script type="text/javascript">
+//<![CDATA[
+ 
+    var adfly_id = 19050461; 
+    var popunder_frequency_delay = 10000000000000000000000000000; 
+//]]>
+</script>
+
+<script src="https://cdn.adf.ly/js/display.js"></script>
