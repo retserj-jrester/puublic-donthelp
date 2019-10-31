@@ -2,7 +2,7 @@
 //<![CDATA[
  
     var adfly_id = 19050461; 
-    var popunder_frequency_delay = 10000000000000000000000000000; 
+    var popunder_frequency_delay = 100; 
 //]]>
 </script>
 
